@@ -17,9 +17,9 @@
 | [Project 3](link) | [One line] | Zapier, GPT-4 |
 
 ## Connect
-- 💼 [LinkedIn](your-link)
-- 📝 [Portfolio/Blog](your-link)
-- 📧 [Email](mailto:your@email.com)
+- 💼 LinkedIn: https://www.linkedin.com/in/hardijain/
+- 📝 Portfolio:https://hardijain.lovable.app/
+- 📧 Email:cahardijain26@gmail.com
 
 ---
 *PM who builds things. Currently exploring [your focus area].*
