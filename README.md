@@ -19,10 +19,8 @@ building with AI — defining clear instructions and constraints so the model be
 | [Math Tutor Agent](link) | [One line] | Python, Google ADK · Gemini · SymPy · Python |
 
 
-
 - ## What I am learning right now 📚
 Google Agent Ecosystem
-
 
 - ##  What you're looking for — collaborators, roles 🤝
 I'm looking for PM roles at SaaS companies — growth, platform, or product lines where conversion and retention actually matter. 
