@@ -20,7 +20,7 @@ building with AI — defining clear instructions and constraints so the model be
 
 
 - ## What I am learning right now 📚
-Google Agent Ecosystem
+  Google Agent Ecosystem
 
 - ##  What you're looking for — collaborators, roles 🤝
 I'm looking for PM roles at SaaS companies — growth, platform, or product lines where conversion and retention actually matter. 
