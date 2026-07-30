@@ -16,24 +16,22 @@ building with AI — defining clear instructions and constraints so the model be
 ## What I've shipped
  Project | What It Does | Stack |
 |---------|-------------|-------|
-| [Math Tutor Agent](link) | [One line] | Python, OpenAI |
-| [Project 2](link) | [One line] | Claude API, Notion |
-| [Project 3](link) | [One line] | Zapier, GPT-4 |
+| [Math Tutor Agent](link) | [One line] | Python, Google ADK · Gemini · SymPy · Python |
 
 
-- ## 📚 [What you're learning right now]
+
+- ## What I am learning right now 📚
 Google Agent Ecosystem
 
 
-- ## 🤝 [What you're looking for — collaborators, feedback, roles]
+- ##  What you're looking for — collaborators, roles 🤝
 I'm looking for PM roles at SaaS companies — growth, platform, or product lines where conversion and retention actually matter. 
-The CA background means I think in unit economics, not just feature lists.  Always up for a conversation about SaaS product thinking, 
+The CA background means I think in unit economics, not just feature lists. Always up for a conversation about SaaS product thinking, 
 building with AI, or where CA and tech actually overlap. Reach out.
 |
 ## Connect
 - 💼 LinkedIn: https://www.linkedin.com/in/hardijain/
-- 📝 Portfolio:https://hardijain.lovable.app/
 - 📧 Email:cahardijain26@gmail.com
 
 ---
-*PM who builds things. Currently exploring [your focus area].*
+*Building products that users trust*
