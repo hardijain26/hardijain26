@@ -1,7 +1,7 @@
 # Hi, I'm Hardi 👋 
 I'm Hardi — a Product Manager who started as a Chartered Accountant. Sounds like a weird career arc until you realize that auditing 
 balance sheets and auditing user funnels are the same skill. Find where the numbers don't add up, figure out why, fix the system.
-Spent the last few years at PayU building SaaS products — checkout flows, hosted payment pages, platform APIs — handling 10M+ 
+Spent the last few years at PayU building SaaS products — checkout flows, hosted payment pages, platform APIs handling 10M+ 
 transactions a day. Variance analysis on a P&L and investigating a sudden drop in checkout conversion rate? 
 Same drill — isolate the variable, trace it back, find the root cause. Right now I'm between roles, building AI agents, and figuring 
 out what's worth working on next.
@@ -16,7 +16,8 @@ building with AI — defining clear instructions and constraints so the model be
 ## What I've shipped
  Project | What It Does | Stack |
 |---------|-------------|-------|
-| [Math Tutor Agent](link) | [One line] | Python, Google ADK · Gemini · SymPy · Python |
+| [Math Tutor Agent](link) | [One line] | Python, Google ADK, Gemini,SymPy,Python |
+| [Day trip Travel agent](https://github.com/hardijain26/day-trip-agent) | It helps in planning a trip with a detailed itenary | Python, Google ADK,Gemini,  Python|
 
 
 - ## What I am learning right now 📚
