@@ -39,7 +39,7 @@ My approach is shaped by:
 
 ---
 
-## 🎯 Product Focus
+## 🎯 **Product Focus**
 
 | Area | What I focus on |
 |---|---|
@@ -54,7 +54,7 @@ My approach is shaped by:
 
 ---
 
-## 🛒 Checkout & Customer Experience
+## 🛒** Checkout & Customer Experience**
 
 I'm particularly interested in **checkout as a product experience**, not simply as a transaction layer.
 
@@ -71,7 +71,7 @@ I'm particularly interested in **checkout as a product experience**, not simply 
 - 🧪 Experimentation and product optimization
 - 📊 Connecting experience improvements with business outcomes
 
-### Product questions I care about
+### **Product questions I care about**
 
 > Where are customers dropping off?
 
@@ -85,8 +85,8 @@ I'm particularly interested in **checkout as a product experience**, not simply 
 
 ---
 
-## 🤖 AI + SaaS Product Thinking
-
+## 🤖 **AI + SaaS Product Thinking
+**
 I'm exploring AI from a **Product Manager's perspective**.
 
 ```text
