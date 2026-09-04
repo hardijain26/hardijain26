@@ -14,6 +14,7 @@
   </a>
 </p>
 
+---
 > **Building products at the intersection of customer experience, conversion, SaaS, and AI.**
 
 ---
