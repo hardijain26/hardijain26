@@ -1,4 +1,3 @@
-````markdown
 # 👋 Hi, I'm Hardi Jain
 
 ### Product Manager | SaaS • Checkout • Customer Experience • AI Products
@@ -35,7 +34,9 @@ My approach is shaped by:
 - 🛒 Simplifying complex customer journeys
 - 📊 Using data and experimentation to guide decisions
 - 🤝 Working across product, engineering, design, business, and leadership
-- 🤖 Exploring practical applications of AI in real word problem-solvinglier experience in audit, automation, and financial services gave me a strong foundation in **analytical thinking, root-cause analysis, process improvement, structured problem solving, and attention to detail** — skills I now bring into product management.
+- 🤖 Exploring practical applications of AI in real-world problem solving
+
+My earlier experience in audit, automation, and financial services gave me a strong foundation in **analytical thinking, root-cause analysis, process improvement, structured problem solving, and attention to detail** — skills I now bring into product management.
 
 ---
 
@@ -103,18 +104,18 @@ Guardrails
 Product Experience
    ↓
 Outcome
-````
+```
 
 I'm particularly interested in:
 
-* 🤖 AI agents
-* 🔄 Workflow automation
-* 🧠 AI-assisted decision making
-* ✍️ AI-assisted productivity
-* 🛡️ AI guardrails and verification
-* 👤 Human-in-the-loop experiences
-* 📈 AI adoption and repeat usage
-* 🎯 Finding useful AI problems rather than adding AI for its own sake
+- 🤖 AI agents
+- 🔄 Workflow automation
+- 🧠 AI-assisted decision making
+- ✍️ AI-assisted productivity
+- 🛡️ AI guardrails and verification
+- 👤 Human-in-the-loop experiences
+- 📈 AI adoption and repeat usage
+- 🎯 Finding useful AI problems rather than adding AI for its own sake
 
 ---
 
@@ -148,23 +149,23 @@ Understand the customer problem, context, constraints, and opportunity before de
 
 Evaluate opportunities through:
 
-* Customer impact
-* Revenue / business impact
-* Merchant growth
-* Leadership priorities
-* Engineering capacity
-* Strategic alignment
+- Customer impact
+- Revenue / business impact
+- Merchant growth
+- Leadership priorities
+- Engineering capacity
+- Strategic alignment
 
 ### 03 · 🧩 Define
 
 Translate the problem into:
 
-* Product requirements
-* User journeys
-* Success criteria
-* Hypotheses
-* Experiments
-* Clear product decisions
+- Product requirements
+- User journeys
+- Success criteria
+- Hypotheses
+- Experiments
+- Clear product decisions
 
 ### 04 · 🤝 Align
 
@@ -188,25 +189,25 @@ Measure what happened, understand why, and use those insights to improve the pro
 
 Worked across multiple product experiences including:
 
-* 🌐 Web
-* 📦 SDK
-* 🔗 Payment Link
-* 🛒 Checkout Experience
+- 🌐 Web
+- 📦 SDK
+- 🔗 Payment Link
+- 🛒 Checkout Experience
 
 ### Product initiatives
 
-* 🛒 Checkout experience revamp
-* 🎛️ Multiple checkout options and journeys
-* 💳 Amazon Pay
-* 🍎 Apple Pay
-* 🎁 Pay by Rewards
-* 🔄 Multiple payment-option journeys
+- 🛒 Checkout experience revamp
+- 🎛️ Multiple checkout options and journeys
+- 💳 Amazon Pay
+- 🍎 Apple Pay
+- 🎁 Pay by Rewards
+- 🔄 Multiple payment-option journeys
 
 ### Product challenges
 
-* ⚙️ Limited engineering capacity
-* 🎯 Conflicting business priorities
-* 📊 Multiple products competing for investment
+- ⚙️ Limited engineering capacity
+- 🎯 Conflicting business priorities
+- 📊 Multiple products competing for investment
 
 Prioritized roadmap opportunities based on **customer impact, business impact, merchant growth, leadership priorities, engineering capacity, and strategic alignment.**
 
@@ -218,13 +219,13 @@ Prioritized roadmap opportunities based on **customer impact, business impact, m
 
 Focused on **process automation, workflow optimization, and business–technology collaboration**.
 
-* ⚙️ **Reduced fund-processing cycle time from 2 business days to <4 hours across ~100 funds** by identifying repeatable calculation and reconciliation rules, defining automation requirements and scope, and partnering with Technology to implement and validate an end-to-end Alteryx workflow.
+- ⚙️ **Reduced fund-processing cycle time from 2 business days to <4 hours across ~100 funds** by identifying repeatable calculation and reconciliation rules, defining automation requirements and scope, and partnering with Technology to implement and validate an end-to-end Alteryx workflow.
 
-* 📉 **Reduced NAV reporting errors from 30% to 10% and processing effort by 75%** by standardizing calculation and validation rules, eliminating unnecessary manual steps, and partnering with Technology to automate selected workflows.
+- 📉 **Reduced NAV reporting errors from 30% to 10% and processing effort by 75%** by standardizing calculation and validation rules, eliminating unnecessary manual steps, and partnering with Technology to automate selected workflows.
 
-* 🚀 **Achieved 100% adoption of the automated fund-processing workflow within 3 months** by designing user training, documenting workflows, and bridging business requirements with Technology to support the transition from manual processing.
+- 🚀 **Achieved 100% adoption of the automated fund-processing workflow within 3 months** by designing user training, documenting workflows, and bridging business requirements with Technology to support the transition from manual processing.
 
-**Product-relevant strengths:**
+**Product-relevant strengths:**  
 `Automation` · `Process Optimization` · `Requirements Definition` · `Business–Tech Collaboration` · `Workflow Design` · `Change Management`
 
 ---
@@ -235,11 +236,11 @@ Focused on **process automation, workflow optimization, and business–technolog
 
 Focused on **standardizing and automating repetitive investment-audit workflows** across large, multi-client engagements.
 
-* ⚙️ **Standardized and automated investment-audit workflows across 50 client engagements for 150+ auditors**, reducing repetitive reconciliation, verification, and rework by defining business rules, validation logic, and automation requirements.
+- ⚙️ **Standardized and automated investment-audit workflows across 50 client engagements for 150+ auditors**, reducing repetitive reconciliation, verification, and rework by defining business rules, validation logic, and automation requirements.
 
-* 📉 **Reduced audit cycle time by 40–50% across 50 client engagements** by identifying and automating repeatable reconciliation and verification activities while retaining human review for complex exceptions.
+- 📉 **Reduced audit cycle time by 40–50% across 50 client engagements** by identifying and automating repeatable reconciliation and verification activities while retaining human review for complex exceptions.
 
-**Product-relevant strengths:**
+**Product-relevant strengths:**  
 `Workflow Automation` · `Business Rules` · `Process Design` · `Validation Logic` · `Requirements` · `Scale`
 
 ---
@@ -250,11 +251,11 @@ Focused on **standardizing and automating repetitive investment-audit workflows*
 
 Built a strong foundation in **analytical problem solving, business processes, and financial analysis**.
 
-* 📊 **Analyzed financial performance across 10+ enterprise clients annually**, identifying business drivers and financial risks by tracing revenue, costs, transactions, and operating processes to their underlying causes.
+- 📊 **Analyzed financial performance across 10+ enterprise clients annually**, identifying business drivers and financial risks by tracing revenue, costs, transactions, and operating processes to their underlying causes.
 
-* 🔎 **Strengthened financial decision-making across 10+ enterprise client engagements** by identifying discrepancies and business drivers through analysis of financial statements, transaction-level data, and operating processes in collaboration with cross-functional stakeholders.
+- 🔎 **Strengthened financial decision-making across 10+ enterprise client engagements** by identifying discrepancies and business drivers through analysis of financial statements, transaction-level data, and operating processes in collaboration with cross-functional stakeholders.
 
-**Product-relevant strengths:**
+**Product-relevant strengths:**  
 `Data Analysis` · `Root-Cause Analysis` · `Business Analysis` · `Risk Assessment` · `Stakeholder Collaboration`
 
 ---
@@ -265,11 +266,11 @@ Built a strong foundation in **analytical problem solving, business processes, a
 
 Focused on **process, controls, risk identification, and operational improvement**.
 
-* 🔎 **Identified critical control gaps across 100K+ transactions**, reducing operational risk through treasury audits, including direct and indirect tax compliance across multiple product lines.
+- 🔎 **Identified critical control gaps across 100K+ transactions**, reducing operational risk through treasury audits, including direct and indirect tax compliance across multiple product lines.
 
-* 🧩 **Enabled process improvements and strengthened control frameworks** by analyzing gaps and delivering recommendations to leadership on tax and regulatory compliance.
+- 🧩 **Enabled process improvements and strengthened control frameworks** by analyzing gaps and delivering recommendations to leadership on tax and regulatory compliance.
 
-**Product-relevant strengths:**
+**Product-relevant strengths:**  
 `Process Analysis` · `Risk Management` · `Problem Solving` · `Leadership Communication` · `Process Improvement`
 
 ---
@@ -302,24 +303,24 @@ Focused on **process, controls, risk identification, and operational improvement
 
 I'm continuously developing my product and AI capabilities across:
 
-* 🤖 AI Product Management
-* 🧠 AI Agents
-* 🔧 Google Agent Ecosystem
-* 🛡️ AI Capabilities & Limitations
-* ✨ AI Product Discovery
-* 🚀 Product-led SaaS
-* 🔄 Workflow Automation
-* 📊 Product Analytics
-* 🧪 Product Experimentation
+- 🤖 AI Product Management
+- 🧠 AI Agents
+- 🔧 Google Agent Ecosystem
+- 🛡️ AI Capabilities & Limitations
+- ✨ AI Product Discovery
+- 🚀 Product-led SaaS
+- 🔄 Workflow Automation
+- 📊 Product Analytics
+- 🧪 Product Experimentation
 
 ### Certifications & Learning
 
-* Google AI Essentials
-* Google Prompting Essentials
-* Anthropic — AI Fluency for Builders
-* Anthropic — AI Capabilities and Limitations
-* Anthropic — AI Fluency Framework & Foundations
-* Anthropic — Claude 101
+- Google AI Essentials
+- Google Prompting Essentials
+- Anthropic — AI Fluency for Builders
+- Anthropic — AI Capabilities and Limitations
+- Anthropic — AI Fluency Framework & Foundations
+- Anthropic — Claude 101
 
 ---
 
@@ -329,14 +330,14 @@ I'm interested in **Product Manager opportunities at SaaS, AI, and product-led c
 
 Especially interested in products involving:
 
-* 🚀 SaaS products
-* 🛒 Checkout & conversion experiences
-* 🧑‍💻 Customer-facing products
-* 📈 Product growth
-* 🔄 Workflow automation
-* 🤖 AI-powered products
-* 🧩 Platform products
-* ✨ Customer experience
+- 🚀 SaaS products
+- 🛒 Checkout & conversion experiences
+- 🧑‍💻 Customer-facing products
+- 📈 Product growth
+- 🔄 Workflow automation
+- 🤖 AI-powered products
+- 🧩 Platform products
+- ✨ Customer experience
 
 I'm particularly drawn to teams that value:
 
@@ -371,4 +372,3 @@ I'd love to connect.
 **SaaS · Checkout · Customer Experience · AI**
 
 </p>
-```
